@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-## I'm 
+## Myself
 
 - 🔭 I’m currently studying 2nd  year in st. Joseph's College of Engineering
 
