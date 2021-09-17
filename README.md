@@ -10,7 +10,7 @@
 
 ## Myself
 
-- 🔭 I’m currently studying 2nd  year in st. Joseph's College of Engineering
+- 🔭 I’m currently studying 3rd year in st. Joseph's College of Engineering
 
 - 🌱 I’m currently learning React js and Node js
 
