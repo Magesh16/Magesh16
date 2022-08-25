@@ -10,11 +10,13 @@
 
 ## Myself
 
-- 🔭 I’m currently studying 3rd year in st. Joseph's College of Engineering
+- 🔭 I’m currently studying Final year in st. Joseph's College of Engineering
 
 - 🌱 I’m currently learning React js and Node js
 
-- 👯 I’m doing an intern with IndieSpirit startup company
+- 👯 I have done an intern with IndieSpirit startup company
+  
+- I get placed in Coding mart company situated in Bangalore
 
 - 💬 Ask me about anything [here](https://github.com/Magesh16/Magi/issues)
 
