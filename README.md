@@ -15,6 +15,8 @@
 - 🌱 I’m currently learning React js and Node js
 
 - 👯 I have done an intern with IndieSpirit startup company
+
+-     Currently,doing projects in blockchain technology
  
 
 - 💬 Ask me about anything [here](https://github.com/Magesh16/Magi/issues)
