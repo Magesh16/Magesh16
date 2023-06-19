@@ -10,11 +10,11 @@
 
 ## Myself
 
-- 🔭 I’m currently studying Final year in st. Joseph's College of Engineering
+- 🔭 Working as a Backend developer in Codingmart
 
-- 🌱 I’m currently learning React js and Node js
+- 🌱 Studied in St. Joseph's college of Engineering, chennai
 
-- 👯 I have done an intern with IndieSpirit startup company
+- 👯 Nodejs as my primary techstack with 
 
 -     Currently,doing projects in blockchain technology
  
